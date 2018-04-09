@@ -2,7 +2,7 @@
     "name": "abc",
     "short_name": "abc",
     "icons": [{
-        "src": "/logo_192_by_192.png",
+        "src": "/ab/logo_192_by_192.png",
         "sizes": "192x192",
         "type": "image/png"
     }],
