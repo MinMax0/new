@@ -1,8 +1,8 @@
 {
-    "name": "MinMax",
-    "short_name": "MinMax",
+    "name": "xyz",
+    "short_name": "xyz",
     "icons": [{
-        "src": "/ab/logo_192_by_192.png",
+        "src": "/logo_192_by_192.png",
         "sizes": "192x192",
         "type": "image/png"
     }],
